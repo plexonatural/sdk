@@ -4,7 +4,7 @@
 > 7 Linguagens. 1 Verdade.  
 > On-chain. Eterno. RUA.
 
-[![Plexo Natural](https://img.shields.io/badge/Plexo_Natural-Web3-purple?style=for-the-badge&logo=ethereum)](https://plexonatural.com)
+[![Plexo Natural](https://img.shields.io/badge/Plexo_Natural-Web3-purple?style=for-the-badge&logo=ethereum)](https://network.plexonatural.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 [![Version: 1.0.0](https://img.shields.io/badge/Version-1.0.0-blue.svg?style=for-the-badge)](https://github.com/plexonatural/sdk/releases)
 
@@ -15,7 +15,7 @@
 npm install @plexonatural/sdk
 
 ## Playground
-Visite: network.plexonatural.com
+Visite: [network.plexonatural.com](https://network.plexonatural.com)
 Teste, exercite e brinque na prática com a transição.
 
 ## Licença
